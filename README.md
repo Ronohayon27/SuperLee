@@ -1,2 +1,2 @@
 How to use:
-There is a full description in the Docs/Readme.txt file
+There is a full description in the Docs/Readme.pdf file
